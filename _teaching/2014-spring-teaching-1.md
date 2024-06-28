@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "UM-SJTU Joint Institute, Shanghai Jiao Tong University"
+type: "Undergraduate Teaching Assistant"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+- **VM211 Solid Mechanics** (2021SP)
+- **VM235 Thermodynamics** (2021SU)
+- **VP250 Physics II** (2021FA)
+- **VM240 Dynamics and Vibrations** (2022SU)
+- **VP160 Honor Physics I** (2023SU)
