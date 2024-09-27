@@ -10,13 +10,11 @@ redirect_from:
 
 🎓 I am a second-year master student at the [Laboratory for Computational Sensing & Robotics](https://lcsr.jhu.edu/) from Johns Hopkins University. I work under the guidance of [Prof. Peter Kazanzides](https://smarts.lcsr.jhu.edu/), [Prof. Anqi Liu](https://anqiliu-ai.github.io/), and [Prof. Tim Harris](https://www.timharrislab.org/). Before joining JHU, I completed my undergraduate studies at Shanghai Jiao Tong University, where I worked with [Prof. Youyi Bi](https://sites.ji.sjtu.edu.cn/youyibi/) and [Prof. Yanfeng Shen](https://amis.sjtu.edu.cn/).
 
-🤖 My research interests focus on bridging machine learning and medical robotics. I also have experience with various types of robots, including industrial robots, wheeled robots, and UAVs.
+🤖 My research interests focus on bridging machine learning and robotics. I am passionate about developing intelligent robotic systems capable of autonomous decision-making and dexterous manipulation. I also have hands-on experience with various robotic platforms, including surgical robots, industrial robots, wheeled robots, and UAVs.
 
-🦾 I am currently working on applying reinforcement learning and imitation learning techniques to surgical robots. My goal is to advance autonomous surgery with the help of robotics. Additionally, I am involved in projects on digital twins and mixed reality for industrial manufacturing and rodent skull surgery.
+🦾 I am focused on applying **reinforcement learning**, **imitation learning**, and **vision-language models** to surgical robotics, with a specific emphasis on the Da Vinci Surgical System. My work also extends to projects involving **digital twin** and **mixed reality** applications for industrial manufacturing and rodent skull surgery.
 
-🚀 Currently, I am actively seeking for PhD opportunities. 
-
-
+🚀 Currently, I am actively seeking for PhD opportunities. And I am eager to explore broader applications of robot learning across various domains.
 
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
